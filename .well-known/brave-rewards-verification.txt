@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: streamcompany.github.io
+Token: 9f086a915a8b58c02f51395cb501d03253a2ed96cea638cb057f4682d91fcf24
