@@ -1,0 +1,12 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>STREAM</ShortName>
+  <Description>The turbo search engine.</Description>
+  <InputEncoding>[UTF-8]</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://streamcompany.github.io/stream/favicon.ico</Image>
+  <Url type="text/html" template="https://streamcompany.github.io/stream/search.html">
+    <Param name="q" value="{searchTerms}"/>
+  </Url>
+  <Url type="application/x-suggestions+json" template="[suggestionURL]"/>
+  <moz:SearchForm>[https://example.com/search]</moz:SearchForm>
+</OpenSearchDescription>
