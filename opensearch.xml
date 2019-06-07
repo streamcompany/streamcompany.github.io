@@ -2,5 +2,5 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
  <ShortName>STREAM</ShortName>
  <Description>The Turbo Search Engine</Description>
- <Url type="text/html" method="get" template="https://streamcompany.github.io/stream/search.html?q={searchTerms}"/>
+ <Url type="text/html" method="get" template="https://streamcompany.github.io/stream/gbr?q={searchTerms}"/>
 </OpenSearchDescription>
